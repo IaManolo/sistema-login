@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(to bottom right, #e0eafc, #cfdef3);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.registro-container {
+    max-width: 500px;
+    margin: 60px auto;
+    background: white;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+}
+
+.registro-container h2 {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.preview-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 10px;
+    border: 2px solid #ddd;
+}
+
+input:focus {
+    border-color: #007bff !important;
+    box-shadow: 0 0 0 0.15rem rgba(0, 123, 255, 0.25);
+}
+
+input.error {
+    border: 2px solid red !important;
+}
+
+.avatar-option {
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: 0.2s;
+}
+
+.avatar-option:hover {
+    transform: scale(1.05);
+}
+
+input[type="radio"]:checked + img.avatar-option {
+    border: 2px solid #007bff;
+}
