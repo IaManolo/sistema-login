@@ -6,11 +6,8 @@
  * Autor: Manuel Molina Sánchez
  */
 
-// Archivo de ejemplo para configuración de conexión
-// Renombra este archivo a config.php y rellena con tus propios datos
-
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'nombre_base_de_datos');
-define('DB_USER', 'usuario');
-define('DB_PASS', 'contraseña');
+define('DB_USER', 'ufr0zeuceus7f');
+define('DB_PASS', 'c$)]#%*d*:2$');
+define('DB_NAME', 'dboba0pyohzng2');
 ?>

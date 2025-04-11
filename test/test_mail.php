@@ -1,4 +1,11 @@
 <?php
+/**
+ * Este archivo forma parte de Aplicacion_LOGIN.
+ * Licenciado bajo la GNU General Public License v3.0.
+ * Más información en https://www.gnu.org/licenses/gpl-3.0.html
+ * Autor: Manuel Molina Sánchez
+ */
+
 // Datos de prueba (puedes tomar el token del insert real si lo deseas)
 $nombre = "Usuario de prueba";
 $correo = "adminzocoweb@zocoweb.com";
