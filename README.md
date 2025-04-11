@@ -1,3 +1,6 @@
+![Vista previa del sistema de login](images/screenshot.png)
+
+
 # Sistema de Login en PHP
 
 Este proyecto es un sistema de inicio de sesión completo y moderno, desarrollado con PHP 8.3.19, HTML5, CSS3, JavaScript y Bootstrap. Incluye funcionalidades avanzadas como verificación de correo electrónico, roles de usuario, subida de imagen de perfil, selección de avatar y protección contra accesos no autorizados.
